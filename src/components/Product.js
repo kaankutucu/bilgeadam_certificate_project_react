@@ -73,7 +73,7 @@ const Wrapper = styled.article`
   }
 
   footer p {
-    color: var(--clr-primary-5);
+    color: var(--clr-red-dark);
     letter-spacing: var(--spacing);
   }
 `
