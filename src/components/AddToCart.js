@@ -113,6 +113,10 @@ const Wrapper = styled.section`
   .btn {
     margin-top: 1rem;
     width: 140px;
-  }
+  }  
+  .btn-second {
+       margin-top: 1rem;
+       width: 140px;
+     }
 `
 export default AddToCart
