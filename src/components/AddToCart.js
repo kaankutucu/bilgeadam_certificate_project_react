@@ -114,7 +114,7 @@ const Wrapper = styled.section`
     margin-top: 1rem;
     width: 140px;
   }  
-  .btn-second {
+  .btn-second2 {
        margin-top: 1rem;
        width: 140px;
      }
