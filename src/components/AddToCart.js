@@ -122,5 +122,9 @@ const Wrapper = styled.section`
     margin-top: 1rem;
     width: 140px;
   }
+  .btn-second2 {
+    margin-top: 1rem;
+    width: 140px;
+  }
 `
 export default AddToCart
