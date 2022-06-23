@@ -124,7 +124,7 @@ const Wrapper = styled.section`
   }
   .btn-second2 {
     margin-top: 1rem;
-    width: 140px;
+    width: 145px;
   }
 `
 export default AddToCart
