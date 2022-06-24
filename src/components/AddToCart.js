@@ -123,8 +123,8 @@ const Wrapper = styled.section`
     width: 140px;
   }
   .btn-second2 {
-    margin-top: 1rem;
     width: 145px;
+    margin-top: 2rem;
   }
 `
 export default AddToCart
